@@ -1,0 +1,1 @@
+mockcpp samples with gtest/cpputest etc.
